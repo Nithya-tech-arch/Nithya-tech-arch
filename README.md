@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Nithya-tech-arch
-- 👀 I’m interested in exploring new stuffs
-- 🌱 I’m currently learning React and I do read few books(not academic)
 - 📫 Reach me via nithyasreebalasubramaniam@gmail.com 
 
 <!---
